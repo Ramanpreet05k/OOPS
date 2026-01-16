@@ -54,10 +54,10 @@ Used to compare two values. They return a boolean result (true or false).
 
 - == (Equal to): Checks if two values are equal.
 - != (Not equal to): Checks if two values are not equal.
-- > (Greater than): Checks if the left value is greater than the right.
+- >(Greater than): Checks if the left value is greater than the right.
 - < (Less than): Checks if the left value is less than the right.
-- >= (Greater than or equal to): Checks if the left value is greater than or equal to the right.
-- <= (Less than or equal to): Checks if the left value is less than or equal to the right.
+- >=(Greater than or equal to): Checks if the left value is greater than or equal to the right.
+- <=(Less than or equal to): Checks if the left value is less than or equal to the right.
 
 
 #### 4.Logical Operators
@@ -76,4 +76,16 @@ Used to assign values to variables.
 - *= (Multiply and Assign): Multiplies the variable by a value and assigns the result.
 - /= (Divide and Assign): Divides the variable by a value and assigns the result.
 - %= (Modulo and Assign): Assigns the remainder of the division to the variable.
+
+#### **Strings**
+Strings are objects in Java, not primitives. They store text.
+
+- Immutable: Once created, a String object cannot be changed. Modifying it creates a new object.
+
+- ![alt text](<./images/string.png>)
+
+
+#### **Input output**
+
+- ![alt text](<./images/ipop.png>)
 
